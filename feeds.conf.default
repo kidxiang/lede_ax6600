@@ -1,7 +1,7 @@
-src-git packages https://gitclone.com/github.com/coolsnowwolf/packages
-src-git luci https://gitclone.com/github.com/coolsnowwolf/luci
+src-git packages https://gitclone.com/github.com/kidxiang/packages_ax6600
+src-git luci https://gitclone.com/github.com/kidxiang/luci_ax6600
 #src-git luci https://gitclone.com/github.com/coolsnowwolf/luci.git;openwrt-23.05
-src-git routing https://github.com/coolsnowwolf/routing
+src-git routing https://gitclone.com/github.com/kidxiang/routing_ax6600
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
